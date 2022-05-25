@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mdaiki0730/Mdaiki0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
